@@ -3,7 +3,7 @@
 
 I am a **Computer Engineering student** with a passion for **Machine Learning, Deep Learning, and Large Language Models**. I thrive on solving complex problems and believe that **technology should always serve to improve lives.**
 
-- 🌐 Explore my [portfolio website]() to see my projects and get in touch.
+- 🌐 Explore my [portfolio website](https://github.com/nglebm19/portfolio) to see my projects and get in touch.
 
 ---
 
